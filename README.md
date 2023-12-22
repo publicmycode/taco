@@ -1,2 +1,2 @@
 # taco
-Code for "Co-Optimization Framework for Heterogeneous Search Spaces in Time-Sensitive Network Planning" (preparing to upload..)
+A released code for the paper: "Co-Optimization Framework for Heterogeneous Search Spaces in Time-Sensitive Network Planning" 
